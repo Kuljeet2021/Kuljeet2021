@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuljeet2021
 - 👀 I’m interested in Data Analythic and Data Science 
-- 🌱 I’m currently learning Advance Python
+- 🌱 I’m currently learning Advanced Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kuljeetkaurgill779@gmail.com
 - 😄 Pronouns: ...
