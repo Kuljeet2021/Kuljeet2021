@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kuljeet2021
+- 👋 Hi, I’m Kuljeet kaur Gill
 - 👀 I’m interested in Data Analythic and Data Science 
 - 🌱 I’m currently learning Advanced Python
 - 💞️ I’m looking to collaborate on ...
