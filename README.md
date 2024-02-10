@@ -7,8 +7,8 @@ I'm passionate about leveraging Python to solve complex problems and streamline 
 - Exploring advanced Python concepts.
 - Enhancing proficiency in object-oriented programming and design patterns.
 
-## 💼 Current Project: Food Waste Management System 🍽️
-Join me in creating a starship-worthy Food Waste Management System. Let's revolutionize the way we handle food surplus and ensure a sustainable future.
+## 🚀 Current Project: Food Waste Management System 🍽️
+Ahoy! Join me in the creation of a starship-worthy Food Waste Management System, aimed at tackling one of humanity's greatest challenges: reducing food waste and saving our planet. Together, let's embark on a mission to revolutionize the way we handle food surplus and ensure a sustainable future for generations to come.
 
 ## 🛠️ Technologies & Tools 🛠️
 - Python
