@@ -9,10 +9,8 @@ I am passionate about leveraging my Python skills to solve complex problems and 
 - Exploring advanced Python concepts.
 - Enhancing proficiency in object-oriented programming and design patterns in Python
 
-## 💼 Experience
-- Developed and maintained Python-based applications for [Your Previous Company/Organization Name]
-- Implemented solutions using Python to optimize data processing pipelines, resulting in improved efficiency and performance
-- Collaborated with cross-functional teams to design and develop Python-based solutions tailored to specific project requirements
+## 💼Current Project: Food Waste Management System 🍽️
+Ahoy! Join me in the creation of a starship-worthy Food Waste Management System, aimed at tackling one of humanity's greatest challenges: reducing food waste and saving our planet. Together, let's embark on a mission to revolutionize the way we handle food surplus and ensure a sustainable future for generations to come.
 
 ## 📈 Skills
 - Proficient in Advanced Python programming techniques
@@ -28,4 +26,4 @@ If you're interested in discussing Python projects, sharing insights, or explori
 ## Fun Fact
 In my free time, I enjoy exploring Python programming challenges and experimenting with new Python libraries to broaden my skill set and deepend my understanding of the language.
 
-Let's harness the power of Advanced Python to tackle challenges and drive innovation together!
+Let's connect and explore the fascinating world of data together!
