@@ -1,21 +1,22 @@
 # Hello, I'm Kuljeet Kaur Gill! 👋
 
-I am a skilled Python developer with a specialization in Advanced Python programming. My expertise lies in utilizing Python's advanced features and libraries to develop robust and efficient solutions for various domains.
-
-## About Me
+About Me
 I am passionate about leveraging my Python skills to solve complex problems and streamline processes., I am committed to staying updated with the latest advancements in Python programming.
 
-## 🌱 Currently Learning
+ 🌱 Currently Learning
 - Exploring advanced Python concepts.
 - Enhancing proficiency in object-oriented programming and design patterns in Python
 
 ## 💼Current Project: Food Waste Management System 🍽️
 Ahoy! Join me in the creation of a starship-worthy Food Waste Management System, aimed at tackling one of humanity's greatest challenges: reducing food waste and saving our planet. Together, let's embark on a mission to revolutionize the way we handle food surplus and ensure a sustainable future for generations to come.
 
-## 📈 Skills
-- Proficient in Advanced Python programming techniques
-- Strong understanding of object-oriented programming concepts
-- SQL,Power Bi
+🛠️ Technologies & Tools 🛠️
+In my interstellar journey, I wield an arsenal of cutting-edge technologies and tools, including:
+
+🐍 Python
+🛢️ SQL
+📊 Power BI
+🚀 GitHub
 
 ## Collaboration
 I am open to collaborating on Python-related projects and contributing my expertise to achieve project objectives effectively. Whether it's developing custom Python solutions, optimizing existing codebases, or providing Python-related consultations, I am eager to collaborate and add value to your projects.
