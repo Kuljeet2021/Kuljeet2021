@@ -1,6 +1,4 @@
-Hello, I'm Kuljeet Kaur Gill!
 Welcome to My GitHub Profile! 👋
-
 About Me
 Hello! I'm Kuljeet Kaur Gill, a data enthusiast dedicated to transforming data into actionable insights. With a solid grounding in Python and SQL, I am passionate about using data analysis to solve real-world problems and optimize processes.
 
@@ -32,4 +30,3 @@ Feel free to reach out and connect with me on LinkedIn. Let's discuss potential 
 In my spare time, I love tackling data challenges and exploring new analytical tools and libraries to expand my skill set. Whether it's a Kaggle competition or a personal project, I'm always excited to dive into the data!
 
 Thank you for visiting my profile! I'm looking forward to connecting and collaborating with you.
-
